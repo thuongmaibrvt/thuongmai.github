@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.thuongmai.blog/newsmap.xml
+Sitemap: https://www.thuongmai.blog/google-video.xml
+Sitemap: https://www.thuongmai.blog/bing-video.xml
+Sitemap: https://www.thuongmai.blog/podcast.xml
