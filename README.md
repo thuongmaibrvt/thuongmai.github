@@ -30,6 +30,18 @@
 							<div style="font-size: 10px;"><i>2024-01-28</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
 							<p>Bà Rịa, diệt mối giá rẻ Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
 						</td>
+						<td style="width: 50%;">
+							<a href="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" title="thương mại" target="_blank">
+								<img class="image" src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="thuong mai"/>
+							</a>
+						</td>
+					</tr>
+					<tr>
+						<td style="width: 50%;">
+							<a href="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" title="thương mại" target="_blank">
+								<img class="image" src="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" width="100%;" alt="thuong mai"/>
+							</a>
+						</td>
 						<td style="width: 50%;"></td>
 					</tr>
 				</table>
