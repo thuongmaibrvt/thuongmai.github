@@ -6,7 +6,7 @@
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-[locationData('https://www.thuongmai.blog/thuongmai/thuong-mai-brvt.html', 'https://wiki.thuongmai.blog/images/wikibadboy.jpg', 'Thương mại .Ltd', "Long Tâm Bà Rịa, VN", 'hotels-cat', "5", "5", "Bà Rịa"  ), 10.5052676, 107.1240385, 0 , 'https://wiki.thuongmai.blog/images/wikibadboy.jpg'],
+[locationData('https://www.thuongmai.blog/thuongmai/thuong-mai-brvt.html', 'https://wiki.thuongmai.blog/images/wikibadboy.jpg', 'Thương mại .Ltd', "Long Tâm Bà Rịa, VN", 'cafe-cat', "5", "5", "Bà Rịa"  ), 10.5052676, 107.1240385, 0 , 'https://wiki.thuongmai.blog/images/wikibadboy.jpg'],
         ];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('map-main'), {
