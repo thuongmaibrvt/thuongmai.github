@@ -6,11 +6,7 @@
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-            [locationData('https://www.kiemsoatmoiphuongnam.blog/2023/09/moi-biet-thu-anh-tinh-long-tam.html', 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-tinh-long-tam.jpg', 'Biệt thự Bà Rịa', "Long Tâm Bà Rịa, VN", 'hotels-cat', "5", "5", "Bà Rịa"  ), 10.5833235, 107.072273, 0 , 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-tinh-long-tam.jpg'],
-            [locationData('https://www.kiemsoatmoiphuongnam.blog/2023/09/con-trung-nha-hang-maxim-p7.html', 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-maxim-vung-tau.jpg', 'Nhà hàng Vũng Tàu', "Phường 7 Vũng Tàu, VN", 'cafe-cat', "5", "5", "Vũng Tàu" ), 10.3642406, 107.0780898, 1, 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-maxim-vung-tau.jpg'],
-            [locationData('https://www.kiemsoatmoiphuongnam.blog/2023/09/moi-nha-rieng-co-6-phuoc-hai.html', 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-co-6-long-dien.jpg', 'Nhà riêng Long Điền', "Phước Hải Long Điền, VN", 'gym-cat', "5",  "5" , "Long Điền"   ), 10.4200976, 107.26115, 2,  'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-co-6-long-dien.jpg'],
-            [locationData('https://www.kiemsoatmoiphuongnam.blog/2023/09/con-trung-cty-thai-binh-duong-my-xuan.html', 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-tbduong-my-xuan.jpg', 'Công ty Tân Thành', "Mỹ Xuân Tân Thành, VN", 'hotels-cat', "5", "5","Tân Thành"  ), 10.6312519, 107.0309758, 3, 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-tbduong-my-xuan.jpg' ],
-            [locationData('https://www.kiemsoatmoiphuongnam.blog/2023/09/con-trung-casino-ho-tram-phuoc-thuan.html', 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-casino-xuyen-moc.jpg', 'Casino Xuyên Mộc', "Phước Thuận Xuyên Mộc, VN", 'gym-cat', "5", "5","Xuyên Mộc" ), 10.4855987, 107.4521313, 4,  'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-casino-xuyen-moc.jpg'],
+            [locationData('https://www.kiemsoatmoiphuongnam.blog/2023/09/moi-biet-thu-anh-tinh-long-tam.html', 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-tinh-long-tam.jpg', 'Biệt thự Bà Rịa', "Long Tâm Bà Rịa, VN", 'hotels-cat', "5", "5", "Bà Rịa"  ), 10.5285927, 107.161786, 0 , 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-tinh-long-tam.jpg'],
         ];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('map-main'), {
