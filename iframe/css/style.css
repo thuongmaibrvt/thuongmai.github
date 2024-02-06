@@ -35,7 +35,7 @@ blockquote {
 	position:relative;
 }
 blockquote:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f10e";
 	position:absolute;
 	color:#ccc;
@@ -377,7 +377,7 @@ blockquote p {
 	float:left;
 	height:30px;
 	position:relative;
-	top:20px;
+	top:24px;
 }
 .logo-holder img {
 	width:auto;
@@ -567,7 +567,7 @@ blockquote p {
 	width:100%;
 }
 .lang-tooltip li a:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f00c";
 	position:absolute;
 	right:0;
@@ -605,7 +605,7 @@ blockquote p {
 	font-weight:600;
 }
 .header-user-name:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f0d7";
 	position:absolute;
 	color:#fff;
@@ -788,7 +788,7 @@ nav li ul a:before , nav li ul a:after {
 	display:none;
 }
 .nav-button-wrap.vismobmenu_btn:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f00d";
 	position:absolute;
 	color:#fff;
@@ -810,7 +810,7 @@ nav li ul a:before , nav li ul a:after {
     transition: all 300ms linear;
 }
 .header-search_container:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f689";
 	position:absolute;
 	left:30px;
@@ -824,7 +824,7 @@ nav li ul a:before , nav li ul a:after {
 	bottom:-110px;
 }
 .header-search-input {
-	width:32%;
+	width:100%;
 	float:left;
 	padding:0 4px;
 	position:relative;
@@ -872,7 +872,7 @@ nav li ul a:before , nav li ul a:after {
 	font-size:10px;
 }
 .header-search-input-wrap {
-	padding:0 199px 0 0;
+	padding:0 50px 0 50px;
 }
 .header-search-input label {
     position: absolute;
@@ -961,7 +961,7 @@ nav li ul a:before , nav li ul a:after {
 	display:block;
 }
 .show-search-button i.vis-head-search-close:before , .show-header-modal.scwllink i:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f00d";
 }
 .show-header-modal.scwllink .cart-counter {
@@ -1418,7 +1418,7 @@ section.gray-section .section-separator {
     line-height: 70px;
 	font-weight:900;
 	color:#fff;
- 	font-family: 'Raleway', sans-serif;
+ 	font-family: 'Roboto', sans-serif;
 	position:relative;
 	z-index:2;
 }
@@ -1430,7 +1430,7 @@ section.gray-section .section-separator {
 	z-index: 1;
 }
 .bubbles {
-
+    top: -50px;
 	display:inline-table;
 	position:relative;
 	padding:12px 0;
@@ -1438,7 +1438,8 @@ section.gray-section .section-separator {
 .intro-item h3 {
 	color:#fff;
 	font-weight:600;
-	font-size:12px;
+	font-size:15px;
+	margin-top: -50px;
 }
 .mob_bg {
 	display:none;
@@ -1452,6 +1453,7 @@ section.gray-section .section-separator {
 	margin-top:40px;
 }
 .hero-map {
+    max-width: 100%;
 	position:relative;
 	overflow:hidden;
 	z-index:1;
@@ -2051,7 +2053,7 @@ section.gray-section .section-separator {
 	background:rgba(255,255,255,0.21);
 }
 .filter-tags input:checked:after , .custom-form  .filter-tags input:checked:after  {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f00c";
 	font-size: 12px;
 	position: absolute;
@@ -2207,7 +2209,7 @@ section.gray-section .section-separator {
 	color:#666;
 }
 .radio input[type="radio"]:checked + span:before{
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f00c";
 	font-size: 13px;
 	position: absolute;
@@ -2608,33 +2610,6 @@ section.gray-section .section-separator {
 	width:100%;
 	position:relative;
 }
-#subscribe-button {
-	position:absolute;
-	right:0;
-	width:120px;
-	height:50px;
-	line-height:50px;
-	top:0;
-	cursor:pointer;
-	border:none;
-	z-index:2;
-	font-size:22px;
-	z-index:10;
-	background:none;
-}
-#subscribe-button:hover i:before {
-	content: "\f2b6";
-}
-#subscribe-button:before {
-	content:'';
-	position:absolute;
-	width:1px;
-	height:20px;
-	background:#fff;
-	left:0;
-	top:50%;
-	margin-top:-10px;
-}
 .subscribe-message {
 	color:#fff;
 	float:left;
@@ -2651,9 +2626,6 @@ section.gray-section .section-separator {
 }
 .subscribe-message.error i{
 	color:#F00;
-}
-.footer-widget #subscribe-button i {
-	padding-right:6px;
 }
 .footer-logo {
 	float:left;
@@ -2766,7 +2738,7 @@ section.gray-section .section-separator {
 	padding-left:20px;
 }
 #footer-twiit  .timePosted a:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f017";
 	position:absolute;
 	top:0;
@@ -3169,7 +3141,7 @@ section.gray-section .section-separator {
 	border-radius:4px 4px 0 0;
 }
 .mapzoom-in:before, .mapzoom-out:before {
-    font-family: Font Awesome\ 5 Pro;
+    font-family:Font Awesome\ 5 Pro;
     content: "\f068";
     font-size: 10px;
     font-weight: 600;
@@ -3180,7 +3152,7 @@ section.gray-section .section-separator {
 .mapnavigation {
 	position:absolute;
 	bottom:50px;
-	right:64px;
+	left: 55px;
 	z-index:1030;
 	border-radius:4px;
 	overflow:hidden;
@@ -3212,14 +3184,14 @@ section.gray-section .section-separator {
 	float:none;
 	position:absolute;
 	bottom:95px;
-	right:19px;
+	left: 10px;
 	z-index:1030;
 	border-radius:4px;
 	box-shadow: 0 9px 26px rgba(58, 87, 135, 0.25);
 }
 .location-btn {
     background: #425998;
-	right:19px;
+	left: 10px;
 	bottom:50px;
 }
 #markerLayer img {
@@ -3435,7 +3407,7 @@ section.gray-section .section-separator {
 	box-shadow: 0px 0px 0px 4px rgba(255,255,255,1.0);
 }
 .map-popup-location-category:after {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	position:absolute;
 	width:100%;
 	top:13px;
@@ -3445,19 +3417,19 @@ section.gray-section .section-separator {
 	font-weight:100;
 }
 .map-popup-location-category.hotels-cat:after {
-	content: "\f236";
+	content: "\f494";
 }
 .map-popup-location-category.cafe-cat:after  {
-	content: "\f805";
+	content: "\f0f4";
 }
 .map-popup-location-category.gym-cat:after  {
-	content: "\f44b";
+	content: "\f5ca";
 }
 .map-popup-location-category.event-cat:after  {
-	content: "\f561";
+	content: "\f549";
 }
 .map-popup-location-category.shop-cat:after  {
-	content: "\f218";
+	content: "\f54e";
 }
 .card-popup-raining {
 	position:absolute;
@@ -3924,7 +3896,7 @@ section.gray-section .section-separator {
 	content: "\f00d";
 }
 .toggle-filter-btn.tsb_act:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f00c";
 	position:absolute;
 	bottom:-1px;
@@ -4006,7 +3978,7 @@ section.gray-section .section-separator {
 	margin-bottom:10px;
 }
 .checket-cat:after {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f00c";
 	position:absolute;
 	color:#fff;
@@ -4529,7 +4501,7 @@ section.gray-section .section-separator {
 	position:relative;
 }
 .card-popup-rainingvis_bg span:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f005";
 	font-size:10px;
 	color:rgba(255,255,255,0.4);
@@ -5188,7 +5160,7 @@ section.gray-section .section-separator {
 	border-radius:0 0 6px 6px;
 }
 .breadcrumbs.inline-breadcrumbs:before , .top-breadcrumbs .container:before {
-    font-family: Font Awesome\ 5 Pro;
+    font-family:Font Awesome\ 5 Pro;
     content: "\f14c";
     position: absolute;
     right: 30px;
@@ -5216,7 +5188,7 @@ section.gray-section .section-separator {
 	font-weight:600;
 }
 .breadcrumbs a:before  , .breadcrumbs.top-breadcrumbs a:before{
-    font-family: Font Awesome\ 5 Pro;
+    font-family:Font Awesome\ 5 Pro;
     content: "\f0da";
     font-size: 11px;
     position: absolute;
@@ -5322,7 +5294,7 @@ section.gray-section .section-separator {
 	color:#fff;
 }
 .list-single-header-column:after {
-    font-family: Font Awesome\ 5 Pro;
+    font-family:Font Awesome\ 5 Pro;
     content: "\f4b6";
     font-size: 11px;
     position: absolute;
@@ -5415,7 +5387,7 @@ section.gray-section .section-separator {
 	position:relative;
 }
 .list-single-main-item-title:before , .box-widget-item-header:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f107";
 	position:absolute;
 	right:30px;
@@ -6307,7 +6279,7 @@ section.gray-section .section-separator {
     cursor: pointer;
 }
 .photoUpload:before {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f5ff";
 	position:absolute;
 	left:30px;
@@ -6644,7 +6616,7 @@ section.gray-section .section-separator {
 	overflow:hidden;
 }
 .faq-nav li a.act-scrlink:before {
-    font-family: Font Awesome\ 5 Pro;
+    font-family:Font Awesome\ 5 Pro;
     content: "\f105";
     position: absolute;
     top: 50%;
@@ -7229,7 +7201,7 @@ section.gray-section .section-separator {
 	line-height:20px;
 	top:50%;
 	margin-top:-10px;
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	font-size:14px;
     transition: all 200ms linear;
 }
@@ -7622,7 +7594,7 @@ section.gray-section .section-separator {
 
 }
 .testimonilas-text:before, .testimonilas-text:after {
-    font-family: Font Awesome\ 5 Pro;
+    font-family:Font Awesome\ 5 Pro;
     font-style: normal;
     font-weight: normal;
     text-decoration: inherit;
@@ -8510,7 +8482,7 @@ section.absolute-wrap_section .section-separator {
 	background:#e9e9e9
 }
 .process-item_time-line:after {
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f00c";
 	position:absolute;
 	width:40px;
@@ -8846,7 +8818,7 @@ section.absolute-wrap_section .section-separator {
 	padding-left:24px;
 }
 .menusb a.back:before{
-	font-family: Font Awesome\ 5 Pro;
+	font-family:Font Awesome\ 5 Pro;
 	content: "\f177";
 	font-size:14px;
 }
