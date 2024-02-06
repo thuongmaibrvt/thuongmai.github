@@ -6,7 +6,7 @@
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-            [locationData('https://www.kiemsoatmoiphuongnam.blog/2023/09/moi-biet-thu-anh-tinh-long-tam.html', 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-tinh-long-tam.jpg', 'Biệt thự Bà Rịa', "Long Tâm Bà Rịa, VN", 'hotels-cat', "5", "5", "Bà Rịa"  ), 10.5285927, 107.161786, 0 , 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-tinh-long-tam.jpg'],
+            [locationData('https://www.thuongmai.blog/thuongmai/thuong-mai-brvt.html', 'https://wiki.thuongmai.blog/images/wikibadboy.jpg', 'Thương mại .Ltd', "Long Tâm Bà Rịa, VN", 'hotels-cat', "5", "5", "Bà Rịa"  ), 10.5052676, 107.1240385, 0 , 'https://wiki.thuongmai.blog/images/wikibadboy.jpg'],
         ];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('map-main'), {
