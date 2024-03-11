@@ -1,6 +1,6 @@
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/thuong-mai.jpg" width="100%" height="490px"/>
 
-## thương mại&nbsp;&nbsp;&nbsp;[![thương mại](https://www.itvtbadboy.io.vn/image/pinterest.svg "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![thương mại](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
+## thương mại&nbsp;&nbsp;&nbsp;[![thương mại](https://www.itvtbadboy.io.vn/image/pinterest.svg "Thương mại Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![thương mại](https://www.itvtbadboy.io.vn/image/youtube.svg "Thương mại Youtube")](https://www.youtube.com/@thuongmaibrvt)
 <p>Thương mại tiếp thị thời trang áo dài quần shot tây jean vớ da váy ngắn đầm ngủ tiệc hội đồ lót legging dịch vụ mối ruồi muỗi siêu thị điện máy bán lẻ công nghệ bảo mật đám mây.</p>
 
 > 56 Nguyễn Hữu Huân BR<br/>
@@ -28,21 +28,27 @@
 			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
 				<img class="image" src="https://wiki.thuongmai.blog/images/thoitrang/thoi-trang.jpg" width="100%;" alt="thuong mai"/>
 			</a>
-			<h3><a href="https://www.thuongmai.blog" title="thương mại" target="_blank">thời trang</a></h3>
-			<div style="font-size: 10px;"><i>2024-01-28</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
-			<p>Bà Rịa, diệt mối giá rẻ Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
+			<h3><a href="#" title="thương mại" target="_blank">thời trang</a></h3>
+			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
+			<p>Thời trang áo dài áo bà ba áo khoác quần tây quần jean quần short vớ da váy ngắn đầm ngủ đầm dạ hội tiệc tùng đồ lót đồ ngủ legging bodysuit.</p>
 		</td>
 		<td style="width: 50%;">
-			<a href="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" title="thương mại" target="_blank">
+			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
 				<img class="image" src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="thuong mai"/>
 			</a>
+			<h3><a href="#" title="thương mại" target="_blank">dịch vụ</a></h3>
+			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
+			<p>Dịch vụ diệt mối siêu thị điện máy du lịch bất động sản bán lẻ thực phẩm mỹ phẩm làm đẹp linh kiện phụ kiện di động máy tính xách tay toàn quốc.</p>
 		</td>
 	</tr>
 	<tr>
 		<td style="width: 50%;">
-			<a href="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" title="thương mại" target="_blank">
+			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
 				<img class="image" src="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" width="100%;" alt="thuong mai"/>
 			</a>
+			<h3><a href="#" title="thương mại" target="_blank">dịch vụ</a></h3>
+			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
+			<p>Dịch vụ diệt mối siêu thị điện máy du lịch bất động sản bán lẻ thực phẩm mỹ phẩm làm đẹp linh kiện phụ kiện di động máy tính xách tay toàn quốc.</p>
 		</td>
 		<td style="width: 50%;"></td>
 	</tr>
