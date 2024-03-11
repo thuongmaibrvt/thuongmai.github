@@ -46,9 +46,9 @@
 			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
 				<img class="image" src="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" width="100%;" alt="thuong mai"/>
 			</a>
-			<h3><a href="#" title="thương mại" target="_blank">dịch vụ</a></h3>
+			<h3><a href="#" title="thương mại" target="_blank">bảo mật</a></h3>
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
-			<p>Dịch vụ diệt mối siêu thị điện máy du lịch bất động sản bán lẻ thực phẩm mỹ phẩm làm đẹp linh kiện phụ kiện di động máy tính xách tay toàn quốc.</p>
+			<p>Bảo mật đám mây google oracle cloud chia sẻ bài viết lĩnh vực công nghệ thông tin liên quan máy chủ apache cenos chứng chỉ tên miền cân bằng tải.</p>
 		</td>
 		<td style="width: 50%;"></td>
 	</tr>
