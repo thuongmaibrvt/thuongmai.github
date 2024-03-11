@@ -38,7 +38,7 @@
 			</a>
 			<h3><a href="#" title="thương mại" target="_blank">dịch vụ</a></h3>
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
-			<p>Dịch vụ diệt mối siêu thị điện máy du lịch bất động sản bán lẻ thực phẩm mỹ phẩm làm đẹp linh kiện phụ kiện di động máy tính xách tay toàn quốc.</p>
+			<p>Dịch vụ diệt mối siêu thị điện máy du lịch bất động sản quán chay bán lẻ thực phẩm mỹ phẩm làm đẹp linh kiện phụ kiện di động máy tính xách tay toàn quốc.</p>
 		</td>
 	</tr>
 	<tr>
