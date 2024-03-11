@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+<channel>
+	<title>Thương mại</title>
+	<link>https://www.thuongmai.blog/</link>
+	<description>Thương mại tiếp thị thời trang áo dài quần shot tây jean vớ da váy ngắn đầm ngủ tiệc hội đồ lót legging dịch vụ mối ruồi muỗi siêu thị điện máy bán lẻ công nghệ bảo mật đám mây</description>
+
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.thuongmai.blog/</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/thuong-mai.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3305049" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/thuong-mai.mp4" />
+			<media:title>Thương mại tiếp thị thời trang</media:title>
+			<media:description>Thương mại do itvtbadboy xây dựng và quản lý trên công nghệ điện toán đám mây oracle đặt tại Mỹ và làm việc trực tuyến tại Việt Nam, thương mại rất thích hợp cho doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/thuong-mai.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-04T10:11:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
+</channel>
+</rss>
