@@ -50,6 +50,13 @@
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
 			<p>Bảo mật đám mây google oracle cloud chia sẻ bài viết lĩnh vực công nghệ thông tin liên quan máy chủ apache cenos chứng chỉ tên miền cân bằng tải.</p>
 		</td>
-		<td style="width: 50%;"></td>
+		<td style="width: 50%;">
+			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
+				<img class="image" src="https://wiki.thuongmai.blog/images/news/bang-vang-quang-cao.jpg" width="100%;" alt="thuong mai"/>
+			</a>
+			<h3><a href="#" title="thương mại" target="_blank">quảng cáo</a></h3>
+			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
+			<p>Quảng cáo chi phí 1111đ mỗi ngày dành riêng cho khách hàng tạo trang thương hiệu lâu dài kết hợp chiến lược quảng cáo riêng của từng doanh nghiệp.</p>
+		</td>
 	</tr>
 </table>
