@@ -26,7 +26,7 @@
 	<tr>
 		<td style="width: 50%;">
 			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
-				<img class="image" src="https://wiki.thuongmai.blog/images/thoitrang/thoi-trang.jpg" width="100%;" height="250px;" alt="thuong mai"/>
+				<img class="image" src="https://wiki.thuongmai.blog/images/thoitrang/thoi-trang.jpg" width="100%;" alt="thuong mai"/>
 			</a>
 			<h3><a href="#" title="thương mại" target="_blank">thời trang</a></h3>
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
@@ -34,7 +34,7 @@
 		</td>
 		<td style="width: 50%;">
 			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
-				<img class="image" src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" height="250px;" alt="thuong mai"/>
+				<img class="image" src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="thuong mai"/>
 			</a>
 			<h3><a href="#" title="thương mại" target="_blank">dịch vụ</a></h3>
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
@@ -44,7 +44,7 @@
 	<tr>
 		<td style="width: 50%;">
 			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
-				<img class="image" src="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" width="100%;" height="250px;" alt="thuong mai"/>
+				<img class="image" src="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" width="100%;" alt="thuong mai"/>
 			</a>
 			<h3><a href="#" title="thương mại" target="_blank">dịch vụ</a></h3>
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
