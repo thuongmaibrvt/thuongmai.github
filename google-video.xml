@@ -7,7 +7,7 @@
 
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://www.thuongmai.blog/</link>
-		<media:content url="https://wiki.thuongmai.blog/sitemap/thuong-mai.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3305049" isDefault="true">
+		<media:content url="https://wiki.thuongmai.blog/sitemap/thuong-mai.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2354890" isDefault="true">
 			<media:player url="https://wiki.thuongmai.blog/sitemap/thuong-mai.mp4" />
 			<media:title>Thương mại tiếp thị thời trang</media:title>
 			<media:description>Thương mại do itvtbadboy xây dựng và quản lý trên công nghệ điện toán đám mây oracle đặt tại Mỹ và làm việc trực tuyến tại Việt Nam, thương mại rất thích hợp cho doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới</media:description>
