@@ -22,5 +22,35 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Thương mại brvt</title>
+		<link>https://www.thuongmai.blog/thuongmai/thuong-mai-brvt.html</link>
+		<pubDate>Fri, 15 Mar 2024 15:21:23 PST</pubDate>
+		<description>Thương mại Bà Rịa Vũng Tàu sở hữu tiềm năng tiếp thị lớn, là mạng thương mại riêng biệt liên kết tất cả doanh nghiệp lớn vừa nhỏ trong cùng thư viện bách khoa wiki nhằm khai thác vòng lặp quảng cáo 1111đ mỗi ngày</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/thuong-mai.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/thuong-mai.jpg" height="1200" width="2230"/>
+		<keywords>thuong mai, brvt</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/thuong-mai.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+	<item>
+		<title>Dịch vụ: Diệt mối Long Tâm Bà Rịa</title>
+		<link>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-long-tam-ba-ria.html</link>
+		<pubDate>Fri, 15 Mar 2024 15:21:23 PST</pubDate>
+		<description>Dịch vụ diệt mối Long Tâm Bà Rịa tại biệt thự anh Tình Phương Nam đảm bảo an toàn triệt để lên tất cả tài sản cùng giải pháp phòng mối thực tế như phun xịt thuốc chống mối trong ngoài biệt thự, xử lý phòng chống mối chân tường cầu thang lên các tầng biệt thự, chống mối mặt sàn các phòng biệt thự và xử lý chống mối khuôn viên rộng lớn trong biệt thự... trước khi đi vào hoạt động</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-biet-thu-anh-tinh.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/baria/biet-thu-anh-tinh-long-tam.jpg" height="1200" width="2230"/>
+		<keywords>diet moi,long tam,ba ria</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-biet-thu-anh-tinh.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>
