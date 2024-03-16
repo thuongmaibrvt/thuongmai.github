@@ -47,5 +47,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-10T12:34:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-hoa-long-ba-ria.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-nha-kho-anh-thien.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="114" fileSize="6111702" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-nha-kho-anh-thien.mp4" />
+			<media:title>Dịch vụ: Diệt mối Hòa Long Bà Rịa</media:title>
+			<media:description>Dịch vụ diệt mối Hòa Long Bà Rịa tại nhà kho anh Thiên Phương Nam kiểm soát 100% các loại mối hạn chế tối đa khả năng tái phát từ các khe rãnh mái nhà phòng khách nhà bếp đặc biệt nhà anh Thiên thuộc dạng khung gỗ lâu năm bao phủ có diện tích rộng lớn</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/baria/nha-anh-thien-hoa-long.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-12T08:55:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>
