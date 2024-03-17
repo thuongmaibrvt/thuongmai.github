@@ -82,5 +82,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Dịch vụ: Diệt mối Phước Hưng Bà Rịa</title>
+		<link>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-phuoc-hung-ba-ria.html</link>
+		<pubDate>Sun, 17 Mar 2024 11:17:23 PST</pubDate>
+		<description>Dịch vụ diệt mối Phước Hưng Bà Rịa tại sân bóng SCG Phương Nam kiểm soát 100% các loại mối đảm bảo cầu thủ huấn luyện viên trọng tài và người hâm mộ bóng đá Bà Rịa luôn có sức khỏe tốt nhất cũng như hưng phấn cao nhất vì môn thể thao vua tỉnh nhà</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-san-bong-scg.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="89" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/baria/diet-moi-san-bong-scg-phuoc-hung.jpg" height="1200" width="2230"/>
+		<keywords>diet moi,phuoc hung,ba ria</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-san-bong-scg.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>
