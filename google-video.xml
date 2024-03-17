@@ -75,5 +75,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-11T08:05:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-phuoc-hung-ba-ria.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-san-bong-scg.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="89" fileSize="6406138" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-san-bong-scg.mp4" />
+			<media:title>Dịch vụ: Diệt mối Phước Hưng Bà Rịa</media:title>
+			<media:description>Dịch vụ diệt mối Phước Hưng Bà Rịa tại sân bóng SCG Phương Nam kiểm soát 100% các loại mối đảm bảo cầu thủ huấn luyện viên trọng tài và người hâm mộ bóng đá Bà Rịa luôn có sức khỏe tốt nhất cũng như hưng phấn cao nhất vì môn thể thao vua tỉnh nhà</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/baria/diet-moi-san-bong-scg-phuoc-hung.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-11T10:48:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>
