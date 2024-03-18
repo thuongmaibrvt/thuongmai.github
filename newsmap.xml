@@ -72,4 +72,16 @@
 			<news:keywords>diet moi,phuoc hung,ba ria</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thuongmai/dichvu/diet-moi-long-tam.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-18</news:publication_date>
+			<news:title>Dịch vụ diệt mối Long Tâm Bà Rịa tại biệt thự anh Tình</news:title>
+			<news:keywords>diet moi,long tam,ba ria</news:keywords>
+		</news:news>
+	</url>
 </urlset>
