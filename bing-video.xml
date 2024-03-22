@@ -112,5 +112,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Dịch vụ: Diệt mối Phước Hải Long Điền</title>
+		<link>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-phuoc-hai-long-dien.html</link>
+		<pubDate>Fri, 22 Mar 2024 09:56:23 PST</pubDate>
+		<description>Dịch vụ diệt mối Phước Hải Long Điền tại nhà bếp cô 6 Phương Nam kiểm soát 100% các loại mối hạn chế tối đa khả năng tái phát, chuyên viên tư vấn có kinh nghiệm kiến thức rất tận tâm và chi phí dịch vụ cạnh tranh cho gia đình cô 6</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien-nha-bep-co-6.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="103" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/longdien/tim-kiem-cac-to-moi-tu-bep-nha-co-6-phuoc-hai.jpg" height="1200" width="2230"/>
+		<keywords>diet moi,phuoc hai,long dien</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien-nha-bep-co-6.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>
