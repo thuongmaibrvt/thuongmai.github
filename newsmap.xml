@@ -144,4 +144,16 @@
 			<news:keywords>diet moi,ba ria</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-phuoc-hai-long-dien.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-22</news:publication_date>
+			<news:title>Dịch vụ diệt mối Phước Hải Long Điền tại nhà bếp cô 6</news:title>
+			<news:keywords>diet moi,phuoc hai,long dien</news:keywords>
+		</news:news>
+	</url>
 </urlset>
