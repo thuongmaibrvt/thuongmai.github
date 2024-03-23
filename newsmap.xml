@@ -168,4 +168,16 @@
 			<news:keywords>diet moi,phuoc hai</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-long-hai-long-dien.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-23</news:publication_date>
+			<news:title>Dịch vụ diệt mối Long Hải Long Điền tại nhà hàng Hải Đông</news:title>
+			<news:keywords>diet moi,long hai,long dien</news:keywords>
+		</news:news>
+	</url>
 </urlset>
