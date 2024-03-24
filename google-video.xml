@@ -131,5 +131,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-16T09:02:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-long-dien.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2850244" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien.mp4" />
+			<media:title>Dịch vụ: Diệt mối Long Điền</media:title>
+			<media:description>Dịch vụ diệt mối Long Điền Phương Nam phòng chống bảo vệ biệt thự nhà bếp nhà hàng khách sạn Phước Hải Long Hải</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/news/long-dien.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-16T10:50:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>
