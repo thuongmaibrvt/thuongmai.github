@@ -145,5 +145,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-16T10:50:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-phuoc-thuan-xuyen-moc.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-xuyen-moc-song-bai-phuoc-thuan.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="158" fileSize="10390967" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-xuyen-moc-song-bai-phuoc-thuan.mp4" />
+			<media:title>Dịch vụ: Diệt mối Phước Thuận Xuyên Mộc</media:title>
+			<media:description>Dịch vụ diệt mối Phước Thuận Xuyên Mộc tại sòng bài do Phương Nam kiểm soát với đội ngũ nhân viên đã tham gia các khóa đào tạo nâng cấp năng lực thường xuyên tập huấn thực tế đảm bảo an toàn sức khỏe cho khách du lịch đến tắm biển ăn uống tiệc tùng đánh bài giải trí tại Hồ Tràm Grand Strip</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/xuyenmoc/casino-ho-tram-phuoc-thuan.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-13T13:57:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>
