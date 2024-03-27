@@ -7,9 +7,9 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-11</news:publication_date>
+			<news:publication_date>2024-03-27</news:publication_date>
 			<news:title>Thương mại tiếp thị thời trang</news:title>
-			<news:keywords>thuong mai,tiep thi,thoi trang</news:keywords>
+			<news:keywords>Thương mại</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -19,9 +19,21 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-13</news:publication_date>
+			<news:publication_date>2024-03-27</news:publication_date>
 			<news:title>Thương mại brvt sở hữu tiềm năng tiếp thị lớn</news:title>
-			<news:keywords>thuong mai,brvt</news:keywords>
+			<news:keywords>Thương mại brvt</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thuongmai/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-27</news:publication_date>
+			<news:title>Thương mại di động tiếp thị thời trang trẻ em phụ nữ</news:title>
+			<news:keywords>Thương mại di động</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -31,9 +43,21 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-15</news:publication_date>
+			<news:publication_date>2024-03-27</news:publication_date>
 			<news:title>Dịch vụ diệt mối Long Tâm Bà Rịa tại biệt thự anh Tình</news:title>
-			<news:keywords>diet moi,long tam,ba ria</news:keywords>
+			<news:keywords>Dịch vụ diệt mối Long Tâm Bà Rịa</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thuongmai/dichvu/diet-moi-long-tam.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-27</news:publication_date>
+			<news:title>Diệt mối Long Tâm phòng chống chân tường cầu thang mặt sàn khuôn viên biệt thự anh Tình</news:title>
+			<news:keywords>Diệt mối Long Tâm</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -70,18 +94,6 @@
 			<news:publication_date>2024-03-17</news:publication_date>
 			<news:title>Dịch vụ diệt mối Phước Hưng Bà Rịa tại sân bóng SCG</news:title>
 			<news:keywords>diet moi,phuoc hung,ba ria</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://www.thuongmai.blog/thuongmai/dichvu/diet-moi-long-tam.amp.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>Thương mại</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2024-03-18</news:publication_date>
-			<news:title>Diệt mối Long Tâm phòng chống chân tường cầu thang mặt sàn khuôn viên biệt thự anh Tình</news:title>
-			<news:keywords>diet moi,long tam</news:keywords>
 		</news:news>
 	</url>
 	<url>
