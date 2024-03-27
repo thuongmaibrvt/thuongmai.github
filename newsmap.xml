@@ -67,33 +67,9 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-16</news:publication_date>
+			<news:publication_date>2024-03-27</news:publication_date>
 			<news:title>Dịch vụ diệt mối Hòa Long Bà Rịa tại nhà kho anh Thiên</news:title>
-			<news:keywords>diet moi,hoa long,ba ria</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-phuoc-nguyen-ba-ria.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>Thương mại</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2024-03-17</news:publication_date>
-			<news:title>Dịch vụ diệt mối Phước Nguyên Bà Rịa tại nhà lầu chị Nghĩa</news:title>
-			<news:keywords>diet moi,phuoc nguyen,ba ria</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-phuoc-hung-ba-ria.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>Thương mại</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2024-03-17</news:publication_date>
-			<news:title>Dịch vụ diệt mối Phước Hưng Bà Rịa tại sân bóng SCG</news:title>
-			<news:keywords>diet moi,phuoc hung,ba ria</news:keywords>
+			<news:keywords>Dịch vụ diệt mối Hòa Long Bà Rịa</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -103,9 +79,21 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-19</news:publication_date>
+			<news:publication_date>2024-03-27</news:publication_date>
 			<news:title>Diệt mối Hòa Long phòng chống các khe rãnh mái nhà phòng khách nhà bếp nhà kho</news:title>
-			<news:keywords>diet moi,hoa long</news:keywords>
+			<news:keywords>Diệt mối Hòa Long</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-phuoc-nguyen-ba-ria.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-27</news:publication_date>
+			<news:title>Dịch vụ diệt mối Phước Nguyên Bà Rịa tại nhà lầu chị Nghĩa</news:title>
+			<news:keywords>Dịch vụ diệt mối Phước Nguyên Bà Rịa</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -115,9 +103,21 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-19</news:publication_date>
-			<news:title>Dịch vụ diệt mối Phước Nguyên phòng chống cửa bếp cửa sổ hẻm hông cùng 2 sân trước sau</news:title>
-			<news:keywords>diet moi,phuoc nguyen</news:keywords>
+			<news:publication_date>2024-03-27</news:publication_date>
+			<news:title>Diệt mối Phước Nguyên phòng chống cửa bếp cửa sổ hẻm hông cùng 2 sân trước sau nhà lầu</news:title>
+			<news:keywords>Diệt mối Phước Nguyên</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thuongmai/dichvu/dich-vu-diet-moi-phuoc-hung-ba-ria.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-27</news:publication_date>
+			<news:title>Dịch vụ diệt mối Phước Hưng Bà Rịa tại sân bóng SCG</news:title>
+			<news:keywords>Dịch vụ diệt mối Phước Hưng Bà Rịa</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -127,9 +127,9 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-19</news:publication_date>
-			<news:title>Diệt mối Phước Hưng phòng chống sảnh chính phòng thay đồ và toàn bộ vách tường bao quanh</news:title>
-			<news:keywords>diet moi,phuoc hung</news:keywords>
+			<news:publication_date>2024-03-27</news:publication_date>
+			<news:title>Diệt mối Phước Hưng phòng chống sảnh chính phòng thay đồ và toàn bộ vách tường bao quanh sân bóng</news:title>
+			<news:keywords>Diệt mối Phước Hưng</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -139,9 +139,9 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-19</news:publication_date>
+			<news:publication_date>2024-03-27</news:publication_date>
 			<news:title>Dịch vụ diệt mối Bà Rịa Long Tâm Phước Nguyên Phước Hưng Hòa Long</news:title>
-			<news:keywords>diet moi,ba ria</news:keywords>
+			<news:keywords>Dịch vụ diệt mối Bà Rịa</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -151,9 +151,9 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-20</news:publication_date>
+			<news:publication_date>2024-03-27</news:publication_date>
 			<news:title>Diệt mối Bà Rịa biệt thự nhà lầu nhà kho sân bóng Long Tâm Phước Nguyên Phước Hưng Hòa Long</news:title>
-			<news:keywords>diet moi,ba ria</news:keywords>
+			<news:keywords>Diệt mối Bà Rịa</news:keywords>
 		</news:news>
 	</url>
 	<url>
