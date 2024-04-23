@@ -4295,7 +4295,7 @@ section.gray-section .section-separator {
 }
 .listing-avatar {
 	position:absolute;
-	bottom:-5px;
+	bottom:-50px;
 	right:40px;
 	z-index:14;
 }
