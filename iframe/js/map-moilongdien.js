@@ -6,8 +6,8 @@
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-            [locationData('https://dietmoibr.thuongmai.blog/dietmoi/longdien/diet-moi-tan-goc-long-dien-nha-bep-phuoc-hai.html', 'https://wiki.thuongmai.blog/images/dietmoi/longdien/tim-kiem-cac-to-moi-tu-bep-nha-co-6-phuoc-hai.jpg', 'Nhà bếp Long Điền', "Phước Hải Long Điền, VN", 'hotels-cat', "5", "5", "Long Điền"  ), 10.4123287, 107.2596896, 0 , 'https://wiki.thuongmai.blog/images/dietmoi/longdien/tim-kiem-cac-to-moi-tu-bep-nha-co-6-phuoc-hai.jpg'],
-            [locationData('https://dietmoibr.thuongmai.blog/dietmoi/longdien/diet-moi-tan-goc-long-dien-nha-hang-long-hai.html', 'https://wiki.thuongmai.blog/images/dietmoi/longdien/nha-hang-hai-dong-long-hai.jpg', 'Nhà hàng Long Điền', "Long Hải Long Điền, VN", 'cafe-cat', "5", "5", "Long Điền"  ), 10.4017719, 107.2317442, 1 , 'https://wiki.thuongmai.blog/images/dietmoi/longdien/nha-hang-hai-dong-long-hai.jpg'],
+            [locationData('https://dietmoibr.thuongmai.blog/dietmoi/longdien/diet-moi-long-dien-nha-bep-phuoc-hai.html', 'https://wiki.thuongmai.blog/images/4/4b/Logo-nha-co-6-phuoc-hai.jpg', 'Nhà bếp Long Điền', "Phước Hải Long Điền, VN", 'hotels-cat', "5", "5", "Long Điền"  ), 10.4123287, 107.2596896, 0 , 'https://wiki.thuongmai.blog/images/4/4b/Logo-nha-co-6-phuoc-hai.jpg'],
+            [locationData('https://dietmoibr.thuongmai.blog/dietmoi/longdien/diet-moi-long-dien-nha-hang-long-hai.html', 'https://wiki.thuongmai.blog/images/d/d9/Logo-hai-dong-long-hai-restaurant.jpg', 'Nhà hàng Long Điền', "Long Hải Long Điền, VN", 'cafe-cat', "5", "5", "Long Điền"  ), 10.4017719, 107.2317442, 1 , 'https://wiki.thuongmai.blog/images/d/d9/Logo-hai-dong-long-hai-restaurant.jpg'],
         ];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('map-main'), {
