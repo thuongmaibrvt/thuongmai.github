@@ -6,7 +6,7 @@
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-            [locationData('https://dietmoibr.thuongmai.blog/dietmoi/xuyenmoc/diet-moi-tan-goc-xuyen-moc-song-bai-phuoc-thuan.html', 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-casino-xuyen-moc.jpg', 'Sòng bài Xuyên Mộc', "Phước Thuận Xuyên Mộc, VN", 'gym-cat', "5", "5", "Xuyên Mộc"  ), 10.4855987, 107.4521313, 0 , 'https://wiki.thuongmai.blog/images/dietmoi/600-400/map-casino-xuyen-moc.jpg'],
+            [locationData('https://dietmoibr.thuongmai.blog/dietmoi/xuyenmoc/diet-moi-xuyen-moc-song-bai-phuoc-thuan.html', 'https://wiki.thuongmai.blog/images/0/0e/Logo-casino-ho-tram-phuoc-thuan.jpg', 'Sòng bài Xuyên Mộc', "Phước Thuận Xuyên Mộc, VN", 'gym-cat', "5", "5", "Xuyên Mộc"  ), 10.4855987, 107.4521313, 0 , 'https://wiki.thuongmai.blog/images/0/0e/Logo-casino-ho-tram-phuoc-thuan.jpg'],
         ];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('map-main'), {
