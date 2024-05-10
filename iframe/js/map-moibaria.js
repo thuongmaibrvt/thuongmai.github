@@ -13,9 +13,9 @@
         ];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('map-main'), {
-            zoom: 13,
+            zoom: 12,
             scrollwheel: false,
-            center: new google.maps.LatLng(10.5038325, 107.1461579),
+            center: new google.maps.LatLng(10.5085584, 107.0972343),
             mapTypeId: google.maps.MapTypeId.ROADMAP,
             zoomControl: false,
             mapTypeControl: false,
