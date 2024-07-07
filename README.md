@@ -33,12 +33,9 @@
 			<p>Áo dài là một trang phục được cách tân theo hướng tây hóa từ áo ngũ thân lập lĩnh với dáng áo bó hai tà thẳng trước sau và hai bên, thiết kế áo dài mang theo hoa văn truyền thống dân tộc hoặc chỉ dựa vào màu sắc, chúa Nguyễn Phúc Khoát là người được xem là có công sáng chế chiếc áo ngũ thân tiền thân của áo dài, họa sĩ Nguyễn Cát Tường là người có công định hình áo dài tân thời như ngày nay.</p>
 		</td>
 		<td style="width: 50%;">
-			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
-				<img class="image" src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="thuong mai"/>
-			</a>
-			<h4><a href="https://www.google.com/search?q=dichvu+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">dịch vụ</a></h4>
-			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
-			<p>Dịch vụ diệt mối siêu thị điện máy du lịch bất động sản quán chay bán lẻ thực phẩm mỹ phẩm làm đẹp linh kiện phụ kiện di động máy tính xách tay toàn quốc.</p>
+			<img class="image" src="https://wiki.thuongmai.blog/images/b/ba/Do-lot-satin-xanh.jpg" width="100%;" alt="thuong mai"/>
+			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Do_lot" title="thương mại" target="_blank">đồ lót</a></h4>
+			<p>Đồ lót là một loại trang phục nội y bao gồm áo lót quần lót và đôi khi có cả đồ ngủ dạng mảnh nhỏ, đồ lót thường có độ thoáng mỏng nhẹ dễ chịu với chất liệu lụa satin ren sợi tổng hợp phù hợp cho mục đích mặc bó sát vào cơ thể hay có thể mặc cả khi ngủ.</p>
 		</td>
 	</tr>
 	<tr>
