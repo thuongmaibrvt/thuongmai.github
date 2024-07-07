@@ -28,10 +28,8 @@
 <table style="width: 100%;">
 	<tr>
 		<td style="width: 50%;">
-			<a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ao_dai" title="thương mại" target="_blank">
-				<img class="image" src="https://wiki.thuongmai.blog/images/6/66/Ao-dai-satin-trang.jpg" width="100%;" alt="thuong mai"/>
-			</a>
-			<h4><a href="https://www.google.com/search?q=thoitrang+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">áo dài</a></h4>
+			<img class="image" src="https://wiki.thuongmai.blog/images/6/66/Ao-dai-satin-trang.jpg" width="100%;" alt="thuong mai"/>
+			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ao_dai" title="thương mại" target="_blank">áo dài</a></h4>
 			<p>Áo dài là một trang phục được cách tân theo hướng tây hóa từ áo ngũ thân lập lĩnh với dáng áo bó hai tà thẳng trước sau và hai bên, thiết kế áo dài mang theo hoa văn truyền thống dân tộc hoặc chỉ dựa vào màu sắc, chúa Nguyễn Phúc Khoát là người được xem là có công sáng chế chiếc áo ngũ thân tiền thân của áo dài, họa sĩ Nguyễn Cát Tường là người có công định hình áo dài tân thời như ngày nay.</p>
 		</td>
 		<td style="width: 50%;">
