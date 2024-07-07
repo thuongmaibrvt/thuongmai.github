@@ -23,27 +23,15 @@
 <p>Thời trang có tiềm năng lớn nhất trong mạng thương mại brvt được itvtbadboy tối ưu cho cửa hàng bán lẻ thông qua kết hợp giữa tên miền chính vào bản đồ doanh nghiệp và tên miền phụ github mở tính năng tự động hóa hiệu ứng sản phẩm product và sự kiện event nâng cao.</p>
 <p>Thời trang trong mạng thương mại brvt có lợi thế hình ảnh từ trang cửa hàng blogger giao diện chuyên nghiệp lưu trữ và liên kết với thương hiệu github, bên cạnh đó cộng đồng pinterest cung cấp hiệu ứng danh mục không thua gì bản đồ google.</p>
 
-> 56 Nguyễn Hữu Huân BR<br/>
-> ASCBVNVX (mã dữ liệu)<br/>
-> <a href="https://zalo.me/869202254" title="thương mại" target="_blank">0869-202-254</a> (nhắn zalo)<br/>
-> Thời trang trẻ em phụ nữ<br/>
-> Bảo mật máy chủ cenos7<br/>
-> Dịch vụ quảng cáo bán lẻ<br/>
-> 25 sản phẩm 3000000vnđ<br/>
-> <a href="mailto:thuongmaibrvt@gmail.com" title="thương mại" target="_blank">Thương mại</a> (thư đối tác)
-
-<p>Thương mại do itvtbadboy xây dựng và quản lý trên công nghệ điện toán đám mây oracle đặt tại Mỹ và làm việc trực tuyến tại Việt Nam, thương mại rất thích hợp cho doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.</p>
-<p>Thương mại wiki tất cả trong 1 đòn gánh liên kết quảng cáo chi phí cực kỳ thấp (1 ngày 1111đ) đặc biệt chỉ có thể là bách khoa mediawiki của itvtbadboy và di động amp story chính hãng google dev.</p>
-
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
 <table style="width: 100%;">
 	<tr>
 		<td style="width: 50%;">
-			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
-				<img class="image" src="https://wiki.thuongmai.blog/images/thoitrang/thoi-trang.jpg" width="100%;" alt="thuong mai"/>
+			<a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ao_dai" title="thương mại" target="_blank">
+				<img class="image" src="https://wiki.thuongmai.blog/images/6/66/Ao-dai-satin-trang.jpg" width="100%;" alt="thuong mai"/>
 			</a>
-			<h3><a href="https://www.google.com/search?q=thoitrang+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">thời trang</a></h3>
+			<h3><a href="https://www.google.com/search?q=thoitrang+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">áo dài</a></h3>
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
 			<p>Thời trang áo dài áo bà ba áo khoác quần tây quần jean quần short vớ da váy ngắn đầm ngủ đầm dạ hội tiệc tùng đồ lót đồ ngủ legging bodysuit.</p>
 		</td>
