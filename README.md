@@ -19,7 +19,7 @@
 
 <img alt="thoi trang" src="https://wiki.thuongmai.blog/images/b/b9/Thoi-trang.jpg" width="100%" height="490px"/>
 
-### thời trang&nbsp;&nbsp;&nbsp;[![thời trang](https://www.thuongmai.blog/image/pinterest.png "Thời trang Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![thời trang](https://www.thuongmai.blog/image/youtube.png "Thời trang Youtube")](https://www.youtube.com/@thuongmaibrvt)
+### thời trang&nbsp;&nbsp;&nbsp;[![thời trang](https://www.thuongmai.blog/image/awesome.svg "Thời trang Pinterest")](https://www.pinterest.com/itvtbadboy/)
 <p>Thời trang có tiềm năng lớn nhất trong mạng thương mại brvt được itvtbadboy tối ưu cho cửa hàng bán lẻ thông qua kết hợp giữa tên miền chính vào bản đồ doanh nghiệp và tên miền phụ github mở tính năng tự động hóa hiệu ứng sản phẩm product và sự kiện event nâng cao.</p>
 <p>Thời trang trong mạng thương mại brvt có lợi thế hình ảnh từ trang cửa hàng blogger giao diện chuyên nghiệp lưu trữ và liên kết với thương hiệu github, bên cạnh đó cộng đồng pinterest cung cấp hiệu ứng danh mục không thua gì bản đồ google.</p>
 
@@ -72,7 +72,7 @@
 
 <img alt="dich vu" src="https://wiki.thuongmai.blog/images/a/ab/Bootstrap-v4.jpg" width="100%" height="490px"/>
 
-### dịch vụ&nbsp;&nbsp;&nbsp;[![dịch vụ](https://www.thuongmai.blog/image/pinterest.png "Dịch vụ Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![dịch vụ](https://www.thuongmai.blog/image/youtube.png "Dịch vụ Youtube")](https://www.youtube.com/@thuongmaibrvt)
+### dịch vụ&nbsp;&nbsp;&nbsp;[![dịch vụ](https://www.thuongmai.blog/image/awesome.svg "Dịch vụ Pinterest")](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.thuongmai.blog%2F+dichvu)
 <p>Dịch vụ itvtbadboy triển khai nhiều giải pháp thương hiệu lấy blogger làm khung cơ bản lưu trữ hình ảnh, firebase vận hành trang di động khai thác google news, đám mây google oracle dành cho nguồn lực lớn hơn kết hợp mạng xã hội giữ vững vị trí từ khóa.</p>
 <p>Dịch vụ vận hành trong mạng thương mại brvt có lợi thế về định vị bản đồ chi nhánh hoặc tất cả khu vực vui chơi giải trí danh lam thắng cảnh toàn quốc cho du lịch, thế mạnh miễn phí không dễ có được.</p>
 
