@@ -38,20 +38,32 @@
 	</tr>
 	<tr>
 		<td style="width: 50%;">
-			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
-				<img class="image" src="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" width="100%;" alt="thuong mai"/>
-			</a>
-			<h4><a href="https://www.google.com/search?q=baomat+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">bảo mật</a></h4>
-			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
-			<p>Bảo mật đám mây google oracle cloud chia sẻ bài viết lĩnh vực công nghệ thông tin liên quan máy chủ apache cenos chứng chỉ tên miền cân bằng tải.</p>
+			<img class="image" src="https://wiki.thuongmai.blog/images/8/8a/Do-ngu-satin-trang.jpg" width="100%;" alt="thuong mai"/>
+			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Do_ngu" title="thương mại" target="_blank">đồ ngủ</a></h4>
 		</td>
 		<td style="width: 50%;">
-			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
-				<img class="image" src="https://wiki.thuongmai.blog/images/news/bang-vang-quang-cao.jpg" width="100%;" alt="thuong mai"/>
-			</a>
-			<h4><a href="https://www.google.com/search?q=quangcao+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">quảng cáo</a></h4>
-			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
-			<p>Quảng cáo chi phí 1111đ mỗi ngày dành riêng cho khách hàng tạo trang thương hiệu lâu dài kết hợp chiến lược quảng cáo riêng của từng doanh nghiệp.</p>
+			<img class="image" src="https://wiki.thuongmai.blog/images/9/92/Vay-ngan-satin-vang.jpg" width="100%;" alt="thuong mai"/>
+			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Vay_ngan" title="thương mại" target="_blank">váy ngắn</a></h4>
+		</td>
+	</tr>
+	<tr>
+		<td style="width: 50%;">
+			<img class="image" src="https://wiki.thuongmai.blog/images/6/6e/Bodysuit-satin-xam.jpg" width="100%;" alt="thuong mai"/>
+			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Bodysuit" title="thương mại" target="_blank">bodysuit</a></h4>
+		</td>
+		<td style="width: 50%;">
+			<img class="image" src="https://wiki.thuongmai.blog/images/d/d1/Vo-da-luoi-trang.jpg" width="100%;" alt="thuong mai"/>
+			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Vo_da" title="thương mại" target="_blank">vớ da</a></h4>
+		</td>
+	</tr>
+	<tr>
+		<td style="width: 50%;">
+			<img class="image" src="https://wiki.thuongmai.blog/images/1/1b/Legging-satin-xam.jpg" width="100%;" alt="thuong mai"/>
+			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Legging" title="thương mại" target="_blank">legging</a></h4>
+		</td>
+		<td style="width: 50%;">
+			<img class="image" src="https://wiki.thuongmai.blog/images/d/d8/Mat-kinh.jpg" width="100%;" alt="thuong mai"/>
+			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Mat_kinh" title="thương mại" target="_blank">mắt kính</a></h4>
 		</td>
 	</tr>
 </table>
