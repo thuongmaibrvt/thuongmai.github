@@ -31,15 +31,14 @@
 			<a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ao_dai" title="thương mại" target="_blank">
 				<img class="image" src="https://wiki.thuongmai.blog/images/6/66/Ao-dai-satin-trang.jpg" width="100%;" alt="thuong mai"/>
 			</a>
-			<h3><a href="https://www.google.com/search?q=thoitrang+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">áo dài</a></h3>
-			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
-			<p>Thời trang áo dài áo bà ba áo khoác quần tây quần jean quần short vớ da váy ngắn đầm ngủ đầm dạ hội tiệc tùng đồ lót đồ ngủ legging bodysuit.</p>
+			<h4><a href="https://www.google.com/search?q=thoitrang+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">áo dài</a></h4>
+			<p>Áo dài là một trang phục được cách tân theo hướng tây hóa từ áo ngũ thân lập lĩnh với dáng áo bó hai tà thẳng trước sau và hai bên, thiết kế áo dài mang theo hoa văn truyền thống dân tộc hoặc chỉ dựa vào màu sắc, chúa Nguyễn Phúc Khoát là người được xem là có công sáng chế chiếc áo ngũ thân tiền thân của áo dài, họa sĩ Nguyễn Cát Tường là người có công định hình áo dài tân thời như ngày nay.</p>
 		</td>
 		<td style="width: 50%;">
 			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
 				<img class="image" src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="thuong mai"/>
 			</a>
-			<h3><a href="https://www.google.com/search?q=dichvu+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">dịch vụ</a></h3>
+			<h4><a href="https://www.google.com/search?q=dichvu+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">dịch vụ</a></h4>
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
 			<p>Dịch vụ diệt mối siêu thị điện máy du lịch bất động sản quán chay bán lẻ thực phẩm mỹ phẩm làm đẹp linh kiện phụ kiện di động máy tính xách tay toàn quốc.</p>
 		</td>
@@ -49,7 +48,7 @@
 			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
 				<img class="image" src="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" width="100%;" alt="thuong mai"/>
 			</a>
-			<h3><a href="https://www.google.com/search?q=baomat+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">bảo mật</a></h3>
+			<h4><a href="https://www.google.com/search?q=baomat+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">bảo mật</a></h4>
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
 			<p>Bảo mật đám mây google oracle cloud chia sẻ bài viết lĩnh vực công nghệ thông tin liên quan máy chủ apache cenos chứng chỉ tên miền cân bằng tải.</p>
 		</td>
@@ -57,7 +56,7 @@
 			<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
 				<img class="image" src="https://wiki.thuongmai.blog/images/news/bang-vang-quang-cao.jpg" width="100%;" alt="thuong mai"/>
 			</a>
-			<h3><a href="https://www.google.com/search?q=quangcao+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">quảng cáo</a></h3>
+			<h4><a href="https://www.google.com/search?q=quangcao+site%3Awww.thuongmai.blog" title="thương mại" target="_blank">quảng cáo</a></h4>
 			<div style="font-size: 10px;"><i>2024-03-11</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
 			<p>Quảng cáo chi phí 1111đ mỗi ngày dành riêng cho khách hàng tạo trang thương hiệu lâu dài kết hợp chiến lược quảng cáo riêng của từng doanh nghiệp.</p>
 		</td>
