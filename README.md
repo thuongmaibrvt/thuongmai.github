@@ -1,4 +1,4 @@
-<img alt="thuong mai" src="https://wiki.thuongmai.blog/images/b/b9/Thoi-trang.jpg" width="100%" height="490px"/>
+<img alt="thuong mai" src="https://wiki.thuongmai.blog/images/f/f7/512-vietnam.jpg" width="100%" height="490px"/>
 
 ## thương mại&nbsp;&nbsp;&nbsp;[![thương mại](https://www.thuongmai.blog/image/pinterest.png "Thương mại Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![thương mại](https://www.thuongmai.blog/image/youtube.png "Thương mại Youtube")](https://www.youtube.com/@thuongmaibrvt)
 <p>Thương mại tiếp thị thời trang áo dài quần shot tây jean vớ da váy ngắn đầm ngủ tiệc hội đồ lót legging dịch vụ mối ruồi muỗi siêu thị điện máy bán lẻ công nghệ bảo mật đám mây.</p>
