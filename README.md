@@ -29,41 +29,41 @@
 	<tr>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/6/66/Ao-dai-satin-trang.jpg" width="100%;" alt="thoi trang ao dai"/>
-			<h4 style="text-align: center;">thời trang<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ao_dai" title="thời trang áo dài" target="_blank">áo dài</a></h4>
+			<h4 style="text-align: center;">thời trang <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ao_dai" title="thời trang áo dài" target="_blank">áo dài</a></h4>
 		</td>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/b/ba/Do-lot-satin-xanh.jpg" width="100%;" alt="thoi trang do lot"/>
-			<h4 style="text-align: center;">thời trang<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Do_lot" title="thời trang đồ lót" target="_blank">đồ lót</a></h4>
+			<h4 style="text-align: center;">thời trang <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Do_lot" title="thời trang đồ lót" target="_blank">đồ lót</a></h4>
 		</td>
 	</tr>
 	<tr>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/8/8a/Do-ngu-satin-trang.jpg" width="100%;" alt="thoi trang do ngu"/>
-			<h4 style="text-align: center;">thời trang<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Do_ngu" title="thời trang đồ ngủ" target="_blank">đồ ngủ</a></h4>
+			<h4 style="text-align: center;">thời trang <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Do_ngu" title="thời trang đồ ngủ" target="_blank">đồ ngủ</a></h4>
 		</td>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/9/92/Vay-ngan-satin-vang.jpg" width="100%;" alt="thoi trang vay ngan"/>
-			<h4 style="text-align: center;">thời trang<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Vay_ngan" title="thời trang váy ngắn" target="_blank">váy ngắn</a></h4>
+			<h4 style="text-align: center;">thời trang <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Vay_ngan" title="thời trang váy ngắn" target="_blank">váy ngắn</a></h4>
 		</td>
 	</tr>
 	<tr>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/6/6e/Bodysuit-satin-xam.jpg" width="100%;" alt="thoi trang bodysuit"/>
-			<h4 style="text-align: center;">thời trang<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Bodysuit" title="thời trang bodysuit" target="_blank">bodysuit</a></h4>
+			<h4 style="text-align: center;">thời trang <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Bodysuit" title="thời trang bodysuit" target="_blank">bodysuit</a></h4>
 		</td>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/d/d1/Vo-da-luoi-trang.jpg" width="100%;" alt="thoi trang vo da"/>
-			<h4 style="text-align: center;">thời trang<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Vo_da" title="thời trang vớ da" target="_blank">vớ da</a></h4>
+			<h4 style="text-align: center;">thời trang <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Vo_da" title="thời trang vớ da" target="_blank">vớ da</a></h4>
 		</td>
 	</tr>
 	<tr>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/1/1b/Legging-satin-xam.jpg" width="100%;" alt="thoi trang legging"/>
-			<h4 style="text-align: center;">thời trang<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Legging" title="thời trang legging" target="_blank">legging</a></h4>
+			<h4 style="text-align: center;">thời trang <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Legging" title="thời trang legging" target="_blank">legging</a></h4>
 		</td>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/d/d8/Mat-kinh.jpg" width="100%;" alt="thoi trang mat kinh"/>
-			<h4 style="text-align: center;">thời trang<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Mat_kinh" title="thời trang mắt kính" target="_blank">mắt kính</a></h4>
+			<h4 style="text-align: center;">thời trang <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Mat_kinh" title="thời trang mắt kính" target="_blank">mắt kính</a></h4>
 		</td>
 	</tr>
 </table>
@@ -82,11 +82,11 @@
 	<tr>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/e/ea/Logo-dietmoire.jpg" width="100%;" alt="dich vu diet moi"/>
-			<h4 style="text-align: center;">dịch vụ<br><a href="https://wiki.thuongmai.blog/index.php/Category:Diet_moi_re" title="dịch vụ diệt mối" target="_blank">diệt mối</a></h4>
+			<h4 style="text-align: center;">dịch vụ <br><a href="https://wiki.thuongmai.blog/index.php/Category:Diet_moi_re" title="dịch vụ diệt mối" target="_blank">diệt mối</a></h4>
 		</td>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/8/85/Dau-goi-buoi-su-dung.jpg" width="100%;" alt="dich vu my pham"/>
-			<h4 style="text-align: center;">dịch vụ<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:My_pham" title="dịch vụ mỹ phẩm" target="_blank">mỹ phẩm</a></h4>
+			<h4 style="text-align: center;">dịch vụ <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:My_pham" title="dịch vụ mỹ phẩm" target="_blank">mỹ phẩm</a></h4>
 		</td>
 	</tr>
 </table>
@@ -105,11 +105,11 @@
 	<tr>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/c/c9/Bao-mat-github.jpg" width="100%;" alt="bao mat ten mien"/>
-			<h4 style="text-align: center;">bảo mật<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ten_mien" title="bảo mật tên miền" target="_blank">tên miền</a></h4>
+			<h4 style="text-align: center;">bảo mật <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ten_mien" title="bảo mật tên miền" target="_blank">tên miền</a></h4>
 		</td>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/6/6c/Ten-mien-mat-bao.jpg" width="100%;" alt="dich vu phan mem"/>
-			<h4 style="text-align: center;">bảo mật<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Phan_mem" title="bảo mật phần mềm" target="_blank">phần mềm</a></h4>
+			<h4 style="text-align: center;">bảo mật <br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Phan_mem" title="bảo mật phần mềm" target="_blank">phần mềm</a></h4>
 		</td>
 	</tr>
 </table>
