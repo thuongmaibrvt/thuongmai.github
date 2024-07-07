@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.thuongmai.blog/newsmap.xml
-Sitemap: https://www.thuongmai.blog/podcast.xml
+Sitemap: https://www.thuongmai.blog/channel.xml
