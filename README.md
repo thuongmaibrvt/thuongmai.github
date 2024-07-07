@@ -105,11 +105,11 @@
 	<tr>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/c/c9/Bao-mat-github.jpg" width="100%;" alt="bao mat ten mien"/>
-			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ten_mien" title="bảo mật tên miền" target="_blank">tên miền</a></h4>
+			<h4>bảo mật<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Ten_mien" title="bảo mật tên miền" target="_blank">tên miền</a></h4>
 		</td>
 		<td style="width: 50%;">
 			<img class="image" src="https://wiki.thuongmai.blog/images/6/6c/Ten-mien-mat-bao.jpg" width="100%;" alt="dich vu phan mem"/>
-			<h4><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Phan_mem" title="bảo mật phần mềm" target="_blank">phần mềm</a></h4>
+			<h4>bảo mật<br><a href="https://wiki.thuongmai.blog/index.php/MediaWiki:Phan_mem" title="bảo mật phần mềm" target="_blank">phần mềm</a></h4>
 		</td>
 	</tr>
 </table>
