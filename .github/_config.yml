@@ -5,9 +5,11 @@ layout: post
 canonical_url: https://www.thuongmai.blog/
 title: thương mại
 description: Thương mại tiếp thị thời trang áo dài đồ lót đồ ngủ váy ngắn bodysuit vớ da legging mắt kính dịch vụ diệt mối mỹ phẩm
-image: https://www.thuongmai.blog/image/logoamp.png
+logo: https://www.thuongmai.blog/image/logoamp.png
 locale: vi_VN
-author: itvtbadboy
+author:
+	name: thuongmaibrvt
+	url: https://github.com/thuongmaibrvt
 social:
 	name: thương mại
 	links:
@@ -17,7 +19,7 @@ social:
 		- https://www.slideshare.net/MrBadBoy
 		- https://www.facebook.com/profile.php?id=100089607512698
 		- https://www.tiktok.com/@thuongmaibrvt
-		- https://github.com/thuongmaibrvt
+		- https://github.com/thuongmaibrvt/thuongmai.github
 		- https://www.instagram.com/khuongitvtbadboy8383
 		- https://soundcloud.com/khuongitvtbadboy
 		- https://music.amazon.com/podcasts/6c25f7c0-aa43-4362-b83c-4b976b56df65/wiki-thuongmai-blog
