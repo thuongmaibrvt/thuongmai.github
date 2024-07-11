@@ -1,4 +1,4 @@
-<img alt="thuong mai" src="https://wiki.thuongmai.blog/images/f/f7/512-vietnam.jpg" width="100%" height="490px"/>
+<img alt="thuong mai" src="https://wiki.thuongmai.blog/images/f/f7/512-vietnam.jpg" width="100%" height="256px"/>
 
 ## thương mại&nbsp;&nbsp;&nbsp;[![thương mại](https://www.thuongmai.blog/image/pinterest.png "Thương mại Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![thương mại](https://www.thuongmai.blog/image/youtube.png "Thương mại Youtube")](https://www.youtube.com/@thuongmaibrvt)
 <p>Thương mại tiếp thị thời trang áo dài áo bà ba áo khoác quần tây quần jean quần short vớ da váy ngắn đầm ngủ đầm dạ hội tiệc tùng đồ lót đồ ngủ legging bodysuit.</p>
@@ -17,7 +17,7 @@
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
-<img alt="thoi trang" src="https://wiki.thuongmai.blog/images/b/b9/Thoi-trang.jpg" width="100%" height="490px"/>
+<img alt="thoi trang" src="https://wiki.thuongmai.blog/images/b/b9/Thoi-trang.jpg" width="100%" height="256px"/>
 
 ### thời trang&nbsp;&nbsp;&nbsp;[![thời trang](https://www.thuongmai.blog/image/awesome.svg "Thời trang  thương mại")](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.thuongmai.blog%2F+thoitrang)
 <p>Thời trang có tiềm năng lớn nhất trong mạng thương mại brvt được itvtbadboy tối ưu cho cửa hàng bán lẻ thông qua kết hợp giữa tên miền chính vào bản đồ doanh nghiệp và tên miền phụ github mở tính năng tự động hóa hiệu ứng sản phẩm product và sự kiện event nâng cao.</p>
@@ -70,7 +70,7 @@
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
-<img alt="dich vu" src="https://wiki.thuongmai.blog/images/a/ab/Bootstrap-v4.jpg" width="100%" height="490px"/>
+<img alt="dich vu" src="https://wiki.thuongmai.blog/images/a/ab/Bootstrap-v4.jpg" width="100%" height="256px"/>
 
 ### dịch vụ&nbsp;&nbsp;&nbsp;[![dịch vụ](https://www.thuongmai.blog/image/awesome.svg "Dịch vụ thương mại")](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.thuongmai.blog%2F+dichvu)
 <p>Dịch vụ itvtbadboy triển khai nhiều giải pháp thương hiệu lấy blogger làm khung cơ bản lưu trữ hình ảnh, firebase vận hành trang di động khai thác google news, đám mây google oracle dành cho nguồn lực lớn hơn kết hợp mạng xã hội giữ vững vị trí từ khóa.</p>
@@ -93,7 +93,7 @@
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
-<img alt="bao mat" src="https://wiki.thuongmai.blog/images/c/ce/Bao-mat.jpg" width="100%" height="490px"/>
+<img alt="bao mat" src="https://wiki.thuongmai.blog/images/c/ce/Bao-mat.jpg" width="100%" height="256px"/>
 
 ### bảo mật&nbsp;&nbsp;&nbsp;[![bảo mật](https://www.thuongmai.blog/image/awesome.svg "Bảo mật thương mại")](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.thuongmai.blog%2F+baomat)
 <p>Bảo mật máy chủ cenos itvtbadboy 1 tư duy 1 hướng đi riêng biệt tự xây dựng cũng tự bảo vệ thành quả, tư duy máy chủ màn hình đen chữ trắng không giao diện đồ họa graphical user interface cũng không điều khiển cơ sở dữ liệu từ xa thông qua các gói ứng dụng file transfer protocol.</p>
