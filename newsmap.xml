@@ -24,4 +24,16 @@
 			<news:keywords>diệt mối long tâm</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/dichvu/diet-moi-phuoc-nguyen.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-14</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>diệt mối phước nguyên</news:keywords>
+		</news:news>
+	</url>
 </urlset>
