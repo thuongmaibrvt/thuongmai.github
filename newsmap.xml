@@ -108,4 +108,52 @@
 			<news:keywords>diệt mối phường 7</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/dichvu/diet-moi-phuong-8.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-15</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>diệt mối phường 8</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/dichvu/diet-moi-phuong-10.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-15</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>diệt mối phường 10</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/dichvu/diet-moi-vung-tau.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-15</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>diệt mối vũng tàu</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/dichvu/diet-muoi-long-hai.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-15</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>diệt muỗi long hải</news:keywords>
+		</news:news>
+	</url>
 </urlset>
