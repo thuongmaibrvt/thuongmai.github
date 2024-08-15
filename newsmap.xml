@@ -84,4 +84,28 @@
 			<news:keywords>diệt mối phường 2</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/dichvu/diet-moi-phuong-5.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-15</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>diệt mối phường 5</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/dichvu/diet-moi-phuong-7.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-15</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>diệt mối phường 7</news:keywords>
+		</news:news>
+	</url>
 </urlset>
