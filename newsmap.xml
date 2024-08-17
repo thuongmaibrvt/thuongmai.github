@@ -276,4 +276,64 @@
 			<news:keywords>diệt mối tân thành</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/dichvu/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-17</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>tiếp thị thương hiệu toàn cầu</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/dichvu/dau-goi-buoi.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-17</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>dầu gội tinh chất bưởi</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thoitrang/ao-dai-satin-den.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-17</news:publication_date>
+			<news:title>thời trang</news:title>
+			<news:keywords>áo dài satin đen</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thoitrang/ao-dai-satin-trang.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-17</news:publication_date>
+			<news:title>thời trang</news:title>
+			<news:keywords>áo dài satin trắng</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/thoitrang/ao-dai-satin-do.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-17</news:publication_date>
+			<news:title>thời trang</news:title>
+			<news:keywords>áo dài satin đỏ</news:keywords>
+		</news:news>
+	</url>
 </urlset>
