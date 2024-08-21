@@ -504,4 +504,28 @@
 			<news:keywords>con gián mầm bệnh con người</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/con-moi.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-21</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>mối nhà mối đất cánh đen</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/con-muoi.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-21</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>muỗi sinh trưởng các vùng ẩm ướt</news:keywords>
+		</news:news>
+	</url>
 </urlset>
