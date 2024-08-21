@@ -456,4 +456,52 @@
 			<news:keywords>biệt thự xây dựng thời pháp</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/bodysuit.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-21</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>bodysuit thời trang đa dạng</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/ca-phe.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-21</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>cà phê bánh trà buổi sáng</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/amthuc/mac-co-tri-viem-dau-khop.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-21</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>mắc cỡ trị viêm đau khớp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/con-gian.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-21</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>con gián mầm bệnh con người</news:keywords>
+		</news:news>
+	</url>
 </urlset>
