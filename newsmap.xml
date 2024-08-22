@@ -488,7 +488,7 @@
 				<news:language>vi</news:language>
 			</news:publication>
 			<news:publication_date>2024-08-21</news:publication_date>
-			<news:title>tin tức</news:title>
+			<news:title>ẩm thực</news:title>
 			<news:keywords>mắc cỡ trị viêm đau khớp</news:keywords>
 		</news:news>
 	</url>
@@ -526,6 +526,78 @@
 			<news:publication_date>2024-08-21</news:publication_date>
 			<news:title>tin tức</news:title>
 			<news:keywords>muỗi sinh trưởng các vùng ẩm ướt</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/con-trung.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-22</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>côn trùng không xương sống</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/cong-nghe.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-22</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>kiến thức phát minh công nghệ</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/do-lot.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-22</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>trang phục đồ lót phù hợp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/do-ngu.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-22</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>lịch sử đồ ngủ động phòng</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/doanh-nghiep.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-22</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>đăng ký tài sản doanh nghiệp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/ho-hap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-22</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>hô hấp trao đổi năng lượng</news:keywords>
 		</news:news>
 	</url>
 </urlset>
