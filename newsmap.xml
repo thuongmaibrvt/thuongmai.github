@@ -600,4 +600,64 @@
 			<news:keywords>hô hấp trao đổi năng lượng</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/khach-san.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-22</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>thiết bị tiện nghi khách sạn</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/quan-bo.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-23</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>kết hợp quần áo bó sát co giãn</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/mat-kinh.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-23</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>thời trang mắt kính thẩm mỹ</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/my-pham.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-23</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>mỹ phẩm trang điểm cơ thể</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/nha-bep.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-23</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>nhà bếp trang bị hiện đại</news:keywords>
+		</news:news>
+	</url>
 </urlset>
