@@ -660,4 +660,40 @@
 			<news:keywords>nhà bếp trang bị hiện đại</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/nha-go.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-24</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>nhà gỗ lắp ghép thủ công</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/nha-hang.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-24</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>nhà hàng kinh doanh nấu nướng</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/tintuc/nha-kho.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-08-24</news:publication_date>
+			<news:title>tin tức</news:title>
+			<news:keywords>nhà kho xây dựng lưu trữ</news:keywords>
+		</news:news>
+	</url>
 </urlset>
