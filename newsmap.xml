@@ -259,7 +259,7 @@
 				<news:name>Thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-08-16</news:publication_date>
+			<news:publication_date>2024-09-01</news:publication_date>
 			<news:title>dịch vụ</news:title>
 			<news:keywords>diệt mối phú mỹ</news:keywords>
 		</news:news>
@@ -694,6 +694,18 @@
 			<news:publication_date>2024-08-24</news:publication_date>
 			<news:title>tin tức</news:title>
 			<news:keywords>nhà kho xây dựng lưu trữ</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.thuongmai.blog/phatphap/thien-dinh.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Thương mại</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-09-06</news:publication_date>
+			<news:title>phật pháp</news:title>
+			<news:keywords>thiền định thất chi tọa pháp</news:keywords>
 		</news:news>
 	</url>
 </urlset>
